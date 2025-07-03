@@ -4,3 +4,5 @@
 - Staged: .eslintrc.cjs
 ## [2025-07-03 15:45:19] chore: setup ESLint configuration and browser target rules
 - Staged: CONTRIBUTING.md
+## [2025-07-03 17:54:37] build: add Vitest runner configuration and setup fixtures
+- Staged: README.md
