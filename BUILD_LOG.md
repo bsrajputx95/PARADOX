@@ -6,3 +6,5 @@
 - Staged: CONTRIBUTING.md
 ## [2025-07-03 17:54:37] build: add Vitest runner configuration and setup fixtures
 - Staged: README.md
+## [2025-07-03 19:38:39] feat(assets): import brand assets, icons, and character portraits
+- Staged: index.html
