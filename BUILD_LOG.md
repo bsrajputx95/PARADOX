@@ -8,3 +8,5 @@
 - Staged: README.md
 ## [2025-07-03 19:38:39] feat(assets): import brand assets, icons, and character portraits
 - Staged: index.html
+## [2025-07-05 10:37:13] feat(types): define core application interfaces and mode contracts
+- Staged: modell.glb
