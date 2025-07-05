@@ -12,3 +12,5 @@
 - Staged: modell.glb
 ## [2025-07-05 12:24:28] feat(context): implement AppContext state provider and mode switcher
 - Staged: package-lock.json
+## [2025-07-05 14:32:45] feat(hooks): add useMousePosition and useTilt perspective handlers
+- Staged: package.json
