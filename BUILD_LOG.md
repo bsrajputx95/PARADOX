@@ -10,3 +10,5 @@
 - Staged: index.html
 ## [2025-07-05 10:37:13] feat(types): define core application interfaces and mode contracts
 - Staged: modell.glb
+## [2025-07-05 12:24:28] feat(context): implement AppContext state provider and mode switcher
+- Staged: package-lock.json
