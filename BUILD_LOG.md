@@ -14,3 +14,5 @@
 - Staged: package-lock.json
 ## [2025-07-05 14:32:45] feat(hooks): add useMousePosition and useTilt perspective handlers
 - Staged: package.json
+## [2025-07-06 16:20:44] feat(hooks): implement useParallax container scroll listener
+- Staged: postcss.config.js
