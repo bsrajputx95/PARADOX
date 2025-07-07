@@ -24,3 +24,5 @@
 - Staged: r/arjun.png
 ## [2025-07-07 14:42:37] feat(ui): add TypewriterText and animated headline typography
 - Staged: r/british.png
+## [2025-07-07 16:50:56] feat(ui): implement SpotlightEffect and dynamic cursor tracking
+- Staged: r/c1.png
