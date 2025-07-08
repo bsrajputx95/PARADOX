@@ -28,3 +28,5 @@
 - Staged: r/c1.png
 ## [2025-07-08 13:00:01] feat(ui): build HeroGateway entrance portal with responsive layout
 - Staged: r/c2.png
+## [2025-07-08 15:01:58] feat(visuals): integrate ParticleBackground with WebGL particle grid
+- Staged: r/delhi 2300.png
