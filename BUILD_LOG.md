@@ -26,3 +26,5 @@
 - Staged: r/british.png
 ## [2025-07-07 16:50:56] feat(ui): implement SpotlightEffect and dynamic cursor tracking
 - Staged: r/c1.png
+## [2025-07-08 13:00:01] feat(ui): build HeroGateway entrance portal with responsive layout
+- Staged: r/c2.png
