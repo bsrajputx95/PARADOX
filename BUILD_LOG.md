@@ -30,3 +30,5 @@
 - Staged: r/c2.png
 ## [2025-07-08 15:01:58] feat(visuals): integrate ParticleBackground with WebGL particle grid
 - Staged: r/delhi 2300.png
+## [2025-07-09 14:13:43] feat(visuals): add VantaTrunkBackground 3D trunk geometry shader
+- Staged: r/h1.png
