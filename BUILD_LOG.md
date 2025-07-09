@@ -32,3 +32,5 @@
 - Staged: r/delhi 2300.png
 ## [2025-07-09 14:13:43] feat(visuals): add VantaTrunkBackground 3D trunk geometry shader
 - Staged: r/h1.png
+## [2025-07-09 16:39:28] feat(visuals): implement CinemaBackground with subtle ambient motion
+- Staged: r/kiran.png
