@@ -40,3 +40,5 @@
 - Staged: r/mysore.png
 ## [2025-07-11 16:49:01] feat(3d): integrate ModelViewer for interactive GLB 3D asset rendering
 - Staged: r/priya.png
+## [2025-07-11 18:34:11] feat(3d): add PanoramaViewer for 360-degree environment exploration
+- Staged: r/rahul.png
