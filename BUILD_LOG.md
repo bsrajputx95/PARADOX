@@ -38,3 +38,5 @@
 - Staged: r/kunal.png
 ## [2025-07-10 13:13:51] feat(visuals): implement LiveBackground responsive shader canvas
 - Staged: r/mysore.png
+## [2025-07-11 16:49:01] feat(3d): integrate ModelViewer for interactive GLB 3D asset rendering
+- Staged: r/priya.png
