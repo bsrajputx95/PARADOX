@@ -42,3 +42,5 @@
 - Staged: r/priya.png
 ## [2025-07-11 18:34:11] feat(3d): add PanoramaViewer for 360-degree environment exploration
 - Staged: r/rahul.png
+## [2025-07-11 20:59:13] feat(modes): implement TriModeSelector for Chronos, Cinema, and Hologram
+- Staged: r/teacher_neha.png
