@@ -50,3 +50,5 @@
 - Staged: src/App.tsx
 ## [2025-07-12 19:03:08] feat(modes): build CinemaModeFlow narrative playback interface
 - Staged: src/assets/icons/chronos.svg
+## [2025-07-12 21:04:53] feat(modes): implement CinemaModePanel and ambient audio controls
+- Staged: src/assets/icons/cinema.png
