@@ -58,3 +58,5 @@
 - Staged: src/components/AIChatInterface.tsx
 ## [2025-07-15 10:34:57] feat(characters): implement CharacterSelector with personality profiles
 - Staged: src/components/AnimatedIcons.tsx
+## [2025-07-15 12:01:14] feat(characters): add AnimeAvatar dynamic reaction cards
+- Staged: src/components/AnimeAvatar.tsx
