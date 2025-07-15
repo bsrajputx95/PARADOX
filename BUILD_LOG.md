@@ -56,3 +56,5 @@
 - Staged: src/assets/icons/hologram.png
 ## [2025-07-13 16:41:19] feat(modes): implement HologramModePanel and volumetric controls
 - Staged: src/components/AIChatInterface.tsx
+## [2025-07-15 10:34:57] feat(characters): implement CharacterSelector with personality profiles
+- Staged: src/components/AnimatedIcons.tsx
