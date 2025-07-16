@@ -62,3 +62,5 @@
 - Staged: src/components/AnimeAvatar.tsx
 ## [2025-07-16 15:22:05] feat(story): implement StoryModeTopicInput with real-time prompt tags
 - Staged: src/components/BrandHeader.tsx
+## [2025-07-16 17:08:14] feat(story): add StoryModeBuffer and split-screen stage viewport
+- Staged: src/components/CharacterSelector.tsx
