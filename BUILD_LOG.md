@@ -64,3 +64,5 @@
 - Staged: src/components/BrandHeader.tsx
 ## [2025-07-16 17:08:14] feat(story): add StoryModeBuffer and split-screen stage viewport
 - Staged: src/components/CharacterSelector.tsx
+## [2025-07-16 19:20:14] feat(story): implement StoryModeSplitScreen for dual-perspective view
+- Staged: src/components/ChronosModeFlow.tsx
