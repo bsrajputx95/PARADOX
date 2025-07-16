@@ -60,3 +60,5 @@
 - Staged: src/components/AnimatedIcons.tsx
 ## [2025-07-15 12:01:14] feat(characters): add AnimeAvatar dynamic reaction cards
 - Staged: src/components/AnimeAvatar.tsx
+## [2025-07-16 15:22:05] feat(story): implement StoryModeTopicInput with real-time prompt tags
+- Staged: src/components/BrandHeader.tsx
