@@ -68,3 +68,5 @@
 - Staged: src/components/ChronosModeFlow.tsx
 ## [2025-07-17 11:11:52] feat(media): implement InteractiveVideoPlayer with timestamp bookmarks
 - Staged: src/components/ChronosModePanel.tsx
+## [2025-07-17 13:21:36] feat(ai): implement geminiService for dynamic narration generation
+- Staged: src/components/ChronosModeSelector.tsx
