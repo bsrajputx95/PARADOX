@@ -66,3 +66,5 @@
 - Staged: src/components/CharacterSelector.tsx
 ## [2025-07-16 19:20:14] feat(story): implement StoryModeSplitScreen for dual-perspective view
 - Staged: src/components/ChronosModeFlow.tsx
+## [2025-07-17 11:11:52] feat(media): implement InteractiveVideoPlayer with timestamp bookmarks
+- Staged: src/components/ChronosModePanel.tsx
