@@ -72,3 +72,5 @@
 - Staged: src/components/ChronosModeSelector.tsx
 ## [2025-07-18 11:22:22] feat(ai): add AIChatInterface and LiveCorrectionBubble feedback
 - Staged: src/components/CinemaBackground.tsx
+## [2025-07-18 13:16:34] feat(tts): integrate ttsService for audio synthesis and voice playback
+- Staged: src/components/CinemaModeFlow.tsx
