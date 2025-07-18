@@ -74,3 +74,5 @@
 - Staged: src/components/CinemaBackground.tsx
 ## [2025-07-18 13:16:34] feat(tts): integrate ttsService for audio synthesis and voice playback
 - Staged: src/components/CinemaModeFlow.tsx
+## [2025-07-18 15:12:24] feat(export): add ExportZone and summary download handler
+- Staged: src/components/CinemaModePanel.tsx
