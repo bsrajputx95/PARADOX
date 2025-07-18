@@ -70,3 +70,5 @@
 - Staged: src/components/ChronosModePanel.tsx
 ## [2025-07-17 13:21:36] feat(ai): implement geminiService for dynamic narration generation
 - Staged: src/components/ChronosModeSelector.tsx
+## [2025-07-18 11:22:22] feat(ai): add AIChatInterface and LiveCorrectionBubble feedback
+- Staged: src/components/CinemaBackground.tsx
