@@ -76,3 +76,5 @@
 - Staged: src/components/CinemaModeFlow.tsx
 ## [2025-07-18 15:12:24] feat(export): add ExportZone and summary download handler
 - Staged: src/components/CinemaModePanel.tsx
+## [2025-07-18 17:10:21] feat(utils): implement fileParser for PDF, TXT, and markdown uploads
+- Staged: src/components/ExportZone.tsx
