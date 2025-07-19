@@ -82,3 +82,5 @@
 - Staged: src/components/FileUpload.tsx
 ## [2025-07-19 14:33:34] feat(utils): add image asset resolver and lazy loader helper
 - Staged: src/components/FloatingElement.tsx
+## [2025-07-19 16:05:20] test: add unit tests for fileParser edge cases
+- Staged: src/components/HeroGateway.tsx
