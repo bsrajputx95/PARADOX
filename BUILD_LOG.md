@@ -78,3 +78,5 @@
 - Staged: src/components/CinemaModePanel.tsx
 ## [2025-07-18 17:10:21] feat(utils): implement fileParser for PDF, TXT, and markdown uploads
 - Staged: src/components/ExportZone.tsx
+## [2025-07-19 12:14:59] feat(utils): add mockEngine for offline simulation and fallback
+- Staged: src/components/FileUpload.tsx
