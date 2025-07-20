@@ -90,3 +90,5 @@
 - Staged: src/components/HologramModeFlow.tsx
 ## [2025-07-20 14:20:44] refactor(ui): polish card hover transitions and glow effects
 - Staged: src/components/HologramModePanel.tsx
+## [2025-07-20 16:17:21] perf(render): memoize particle canvas updates on idle tab states
+- Staged: src/components/InteractiveVideoPlayer.tsx
