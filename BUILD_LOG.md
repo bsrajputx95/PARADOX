@@ -88,3 +88,5 @@
 - Staged: src/components/HologramBackground.tsx
 ## [2025-07-20 12:03:30] refactor(3d): optimize Three.js geometry memory and buffer deallocation
 - Staged: src/components/HologramModeFlow.tsx
+## [2025-07-20 14:20:44] refactor(ui): polish card hover transitions and glow effects
+- Staged: src/components/HologramModePanel.tsx
