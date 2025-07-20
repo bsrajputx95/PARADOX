@@ -86,3 +86,5 @@
 - Staged: src/components/HeroGateway.tsx
 ## [2025-07-19 18:06:32] test: add unit tests for mockEngine fallback generators
 - Staged: src/components/HologramBackground.tsx
+## [2025-07-20 12:03:30] refactor(3d): optimize Three.js geometry memory and buffer deallocation
+- Staged: src/components/HologramModeFlow.tsx
