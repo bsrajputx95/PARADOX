@@ -92,3 +92,5 @@
 - Staged: src/components/HologramModePanel.tsx
 ## [2025-07-20 16:17:21] perf(render): memoize particle canvas updates on idle tab states
 - Staged: src/components/InteractiveVideoPlayer.tsx
+## [2025-07-22 15:52:14] style: refine futuristic neon color palette and card borders
+- Staged: src/components/LiveBackground.tsx
