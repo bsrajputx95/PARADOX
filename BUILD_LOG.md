@@ -102,3 +102,5 @@
 - Staged: src/components/MaterialIcon.tsx
 ## [2025-07-23 12:27:41] perf(render): memoize particle canvas updates on idle tab states
 - Staged: src/components/ModelViewer.tsx
+## [2025-07-23 14:04:52] refactor(types): define core application interfaces and mode contracts
+- Staged: src/components/MorphingShape.tsx
