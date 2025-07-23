@@ -100,3 +100,5 @@
 - Staged: src/components/MagneticCursor.tsx
 ## [2025-07-23 10:17:23] chore: configure Tailwind CSS design system and PostCSS plugins
 - Staged: src/components/MaterialIcon.tsx
+## [2025-07-23 12:27:41] perf(render): memoize particle canvas updates on idle tab states
+- Staged: src/components/ModelViewer.tsx
