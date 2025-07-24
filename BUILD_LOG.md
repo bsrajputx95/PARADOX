@@ -104,3 +104,5 @@
 - Staged: src/components/ModelViewer.tsx
 ## [2025-07-23 14:04:52] refactor(types): define core application interfaces and mode contracts
 - Staged: src/components/MorphingShape.tsx
+## [2025-07-24 11:46:56] refactor(visuals): add VantaTrunkBackground 3D trunk geometry shader
+- Staged: src/components/PanoramaViewer.tsx
