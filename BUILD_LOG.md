@@ -106,3 +106,5 @@
 - Staged: src/components/MorphingShape.tsx
 ## [2025-07-24 11:46:56] refactor(visuals): add VantaTrunkBackground 3D trunk geometry shader
 - Staged: src/components/PanoramaViewer.tsx
+## [2025-07-24 13:53:18] refactor(3d): optimize Three.js geometry memory and buffer deallocation
+- Staged: src/components/ParallaxContainer.tsx
