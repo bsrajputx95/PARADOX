@@ -108,3 +108,5 @@
 - Staged: src/components/PanoramaViewer.tsx
 ## [2025-07-24 13:53:18] refactor(3d): optimize Three.js geometry memory and buffer deallocation
 - Staged: src/components/ParallaxContainer.tsx
+## [2025-07-26 10:35:35] refactor(context): implement AppContext state provider and mode switcher
+- Staged: src/components/ParticleBackground.tsx
