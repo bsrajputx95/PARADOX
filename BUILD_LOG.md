@@ -114,3 +114,5 @@
 - Staged: src/components/ProgressRing.tsx
 ## [2025-07-27 15:17:29] refactor(ui): implement FloatingElement and MorphingShape canvas
 - Staged: src/components/SpotlightEffect.tsx
+## [2025-07-27 17:17:03] refactor(types): define core application interfaces and mode contracts
+- Staged: src/components/StoryModeBuffer.tsx
