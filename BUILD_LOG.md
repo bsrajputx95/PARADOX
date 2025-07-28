@@ -116,3 +116,5 @@
 - Staged: src/components/SpotlightEffect.tsx
 ## [2025-07-27 17:17:03] refactor(types): define core application interfaces and mode contracts
 - Staged: src/components/StoryModeBuffer.tsx
+## [2025-07-28 16:36:28] refactor(ui): implement BrandHeader and interactive navigation bar
+- Staged: src/components/StoryModeSplitScreen.tsx
