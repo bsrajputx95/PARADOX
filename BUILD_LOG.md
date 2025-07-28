@@ -120,3 +120,5 @@
 - Staged: src/components/StoryModeSplitScreen.tsx
 ## [2025-07-28 18:22:35] refactor(visuals): add HologramBackground with volumetric grid rendering
 - Staged: src/components/StoryModeTopicInput.tsx
+## [2025-07-28 20:43:44] refactor(tts): integrate ttsService for audio synthesis and voice playback
+- Staged: src/components/TiltCard.tsx
