@@ -126,3 +126,5 @@
 - Staged: src/components/TriModeSelector.tsx
 ## [2025-07-30 13:34:33] refactor(context): implement AppContext state provider and mode switcher
 - Staged: src/components/TypewriterText.tsx
+## [2025-07-30 15:54:35] chore(release): polish 3D visualizers and release PARADOX v1.0
+- Staged: src/components/VantaTrunkBackground.tsx, src/components/VisualizeTopicInput.tsx
