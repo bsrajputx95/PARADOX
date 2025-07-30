@@ -124,3 +124,5 @@
 - Staged: src/components/TiltCard.tsx
 ## [2025-07-30 11:34:58] refactor(visuals): add HologramBackground with volumetric grid rendering
 - Staged: src/components/TriModeSelector.tsx
+## [2025-07-30 13:34:33] refactor(context): implement AppContext state provider and mode switcher
+- Staged: src/components/TypewriterText.tsx
