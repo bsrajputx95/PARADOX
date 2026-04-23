@@ -4,11 +4,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm ci",
   "regions": ["iad1"],
-  "env": {
-    "VITE_GEMINI_API_KEY": "@gemini-api-key",
-    "VITE_TTS_API_KEY": "@tts-api-key",
-    "VITE_APP_ENV": "production"
-  },
   "headers": [
     {
       "source": "/assets/(.*)",
